@@ -1,0 +1,132 @@
+1NAoA1R8uZI#333.12#training#229#115_118#add chickpeas to a food processor.
+cFcLgFsiZUE#329.92#training#109#72_85#put chicken in a bowl and coat with more sauce.
+BFz-pqB2Opw#208.74#training#301#60_77#add salt soy sauce white pepper powder and lemon juice to chicken.
+zPCtV7YcmkA#366.56#validation#205#194_208#sprinkle salt and pepper onto the pizza.
+zPCtV7YcmkA#366.56#validation#205#257_288#cook the pizza in the oven.
+uFbAiNoQYQE#307.62#training#114#287_294#chop up the chives.
+uFbAiNoQYQE#307.62#training#114#267_276#add black pepper.
+HEQqdbXagok#340.96#training#105#38_90#add yogurt and milk to bowl of chicken.
+6nVIgasiUtw#227.22#validation#425#44_59#spread oil in the pan.
+6nVIgasiUtw#227.22#validation#425#60_72#fry green chilis in the pan.
+6nVIgasiUtw#227.22#validation#425#194_203#add cheese and coriander leaves to the dosa.
+T_o_T3LEYLY#490.86#validation#406#184_207#add the mushrooms carrots glass noodles into a bowl.
+T_o_T3LEYLY#490.86#validation#406#275_300#place the rolls in a pan of hot oil.
+T_o_T3LEYLY#490.86#validation#406#363_366#add an egg to a bowl of carrots onions tofu mushrooms pork salt sugar and pepper.
+1uoT5TjyWsU#240.05#training#113#84_102#grate the cheddar cheese and the gruyere cheese.
+EcPsOyNjKYE#246.7#training#210#126_131#heat up oil in a skillet.
+EcPsOyNjKYE#246.7#training#210#132_157#place dollops of the potato mixture in the pan.
+WlkaUxBwURQ#288.02#validation#211#107_126#boil some water in a pan.
+WlkaUxBwURQ#288.02#validation#211#155_161#sprinkle some salt and pepper.
+lRwMt_eHjxU#313.73#validation#401#99_134#add some chopped chicken breast and coat it with the mixture.
+lRwMt_eHjxU#313.73#validation#401#135_190#add some water and cover with a lid.
+lRwMt_eHjxU#313.73#validation#401#287_291#season the dish with some chopped green onion.
+lKm5Ji1Fr4U#370.31#validation#122#190_204#add flour to the butter in a pan.
+lKm5Ji1Fr4U#370.31#validation#122#61_80#heat some butter in a pan and add some cumin seeds chopped garlic and chopped onions.
+lKm5Ji1Fr4U#370.31#validation#122#169_185#blend the mixture using a blender.
+ivLLGfX0YUs#295.54#training#416#84_100#heat some oil in a pan until hot.
+ivLLGfX0YUs#295.54#training#416#144_175#add fresh made tomato puree.
+vUhoMXc7FJM#1106.12#training#227#701_710#bring 2 cups of water to a boil on stove.
+vUhoMXc7FJM#1106.12#training#227#758_765#cut off ends of parsley stalks.
+vUhoMXc7FJM#1106.12#training#227#830_861#cut tomatos into diced pieces and add to bowl.
+vUhoMXc7FJM#1106.12#training#227#894_896#squeeze juice into bowl.
+vUhoMXc7FJM#1106.12#training#227#922_934#add sea salt to bowl.
+rlHZ8xe9G10#611.64#training#209#45_73#cook onion and lamb in a pan.
+rlHZ8xe9G10#611.64#training#209#140_150#add flour to the pan of meat.
+rlHZ8xe9G10#611.64#training#209#237_252#add salt and pepper to the pan.
+rlHZ8xe9G10#611.64#training#209#320_330#add a layer of vegetables to the dish.
+rlHZ8xe9G10#611.64#training#209#400_480#layer the mashed potatos in the dish.
+rlHZ8xe9G10#611.64#training#209#520_535#bake the dish in the oven.
+Xgp4BTstS20#164.24#training#108#15_20#mix milk with vinegar.
+Xgp4BTstS20#164.24#training#108#28_40#mix butter sugar and an egg in a bowl.
+Xgp4BTstS20#164.24#training#108#104_120#pour batter onto the pan.
+a5FoLWnEiAI#595.85#validation#416#342_360#add chopped tomatoes.
+a5FoLWnEiAI#595.85#validation#416#505_508#add some salt.
+r10vxqLvy7U#156.29#training#212#88_92#add balsamic vinegar and salt to the pan.
+r10vxqLvy7U#156.29#training#212#144_147#bake the pie in an oven.
+lU28_L508vo#293.14#training#319#75_87#peel a carrot into thin strips.
+lU28_L508vo#293.14#training#319#96_102#place the beef into a hot pan of oil.
+lU28_L508vo#293.14#training#319#124_131#cook the spinach on the pan.
+lU28_L508vo#293.14#training#319#220_225#add chili paste to the bibimbap and stir.
+hJzPVZf6JVo#421.94#training#303#89_123#dice the tofu.
+hJzPVZf6JVo#421.94#training#303#194_209#spread oil in a frying pan.
+hJzPVZf6JVo#421.94#training#303#211_240#fry ground pork.
+hJzPVZf6JVo#421.94#training#303#356_371#add chopped green onions and mix together.
+rXR5nuiXtZQ#235.96#training#403#7_19#soak the rice noodles in warm water.
+rXR5nuiXtZQ#235.96#training#403#56_80#cook the sauce outdoors with lid on.
+UkqQAynrM2g#366.22#validation#112#52_68#cook the pasta in boiling water.
+UkqQAynrM2g#366.22#validation#112#153_166#fry bacon in a skillet.
+UkqQAynrM2g#366.22#validation#112#279_282#chop the bell pepper into chunks.
+UkqQAynrM2g#366.22#validation#112#282_288#steam the green beans.
+Vyrq2i3R_Sk#319.67#training#209#44_69#chop carrot celery onion and garlic.
+Vyrq2i3R_Sk#319.67#training#209#70_95#add all vegetables into pot with oil and a pinch of salt.
+Vyrq2i3R_Sk#319.67#training#209#95_97#add ground lamb to pot.
+Vyrq2i3R_Sk#319.67#training#209#241_246#add meat mixture to baking dish.
+Vyrq2i3R_Sk#319.67#training#209#266_273#cover meat with mashed potatos.
+BktdaTg6_E4#371.9#validation#405#123_133#heat some clarified butter in a pan.
+BktdaTg6_E4#371.9#validation#405#134_155#add chopped onion and salt and saute.
+0q38LzW-axY#310.96#training#306#90_100#crack two eggs into a bowl.
+WYAFPvlDB_A#256.86#validation#308#79_90#spread black sesame seeds on the rice.
+WYAFPvlDB_A#256.86#validation#308#95_97#flip the rice upside down.
+WYAFPvlDB_A#256.86#validation#308#102_108#dice the tuna.
+WYAFPvlDB_A#256.86#validation#308#115_120#slice the avocado.
+WYAFPvlDB_A#256.86#validation#308#128_133#pour in spicy sauce.
+WYAFPvlDB_A#256.86#validation#308#140_145#add spicy mayo to the tuna.
+WYAFPvlDB_A#256.86#validation#308#160_170#add the tuna to the rice and seaweed.
+TsEyXJqB4vk#548.24#training#413#127_161#grate one piece of chicken.
+TsEyXJqB4vk#548.24#training#413#177_240#chop ginger garlic cilantro.
+TsEyXJqB4vk#548.24#training#413#409_416#slice the bread.
+gYWqhml_YJQ#307.41#validation#403#124_135#add some chopped green onions and rice noodles.
+gYWqhml_YJQ#307.41#validation#403#137_155#pour some lime juice brown sugar and fish sauce.
+t1cUwX4Xzt0#175.82#training#206#40_50#chop the pancetta into chunks.
+t1cUwX4Xzt0#175.82#training#206#62_64#cook the spaghetti.
+t1cUwX4Xzt0#175.82#training#206#71_92#fry the pancetta in pan with garlic and parsely.
+t1cUwX4Xzt0#175.82#training#206#99_106#add the spaghetti to the pan.
+Z5bpo2sBsl8#309.96#validation#216#27_43#add onions to the bratwurst in the pan and stir.
+Z5bpo2sBsl8#309.96#validation#216#51_79#chop the cabbage.
+Z5bpo2sBsl8#309.96#validation#216#254_267#cut the cornbread.
+odLBmYsUaHI#229.48#training#201#71_73#put the brussel sprouts in the oven.
+lgg6luYfQ1w#378.7#training#116#53_90#spread the dough out on the pan.
+lgg6luYfQ1w#378.7#training#116#104_114#fold the dough over the cheese.
+lgg6luYfQ1w#378.7#training#116#296_299#bake the pizza in the oven.
+EP2OBrPPWtU#172.94#training#102#32_39#heat oil in the deep fryer.
+EP2OBrPPWtU#172.94#training#102#101_114#coat the onion rings in the batter.
+EP2OBrPPWtU#172.94#training#102#142_157#deep fry the onion rings.
+9guuyTr8EUg#468.14#validation#302#170_177#pour oil into the wok.
+9guuyTr8EUg#468.14#validation#302#203_212#add the rice noodles and bean sprouts to the wok and stir.
+9guuyTr8EUg#468.14#validation#302#231_259#add the vegetables to the wok and stir.
+9guuyTr8EUg#468.14#validation#302#314_325#roll the wrapper half way up.
+xXSBn23NBJU#258.96#training#106#80_97#add milk and butter to a hot pan.
+xXSBn23NBJU#258.96#training#106#130_160#add cheese and stir.
+xXSBn23NBJU#258.96#training#106#214_226#place the pan in the oven and bake.
+PqyqB_FkWrQ#328.05#training#422#69_80#boil the noodles in boiled water.
+PqyqB_FkWrQ#328.05#training#422#84_107#drain the noodles and cool them with cold water.
+PqyqB_FkWrQ#328.05#training#422#110_119#cut shrimp and mix it with pork.
+PqyqB_FkWrQ#328.05#training#422#187_211#boil the wontons in boiled water.
+PqyqB_FkWrQ#328.05#training#422#221_230#cook some garlic with vegetable oil.
+fqqpdOpgkdc#300.78#training#126#0_74#cook beef in a pan.
+fqqpdOpgkdc#300.78#training#126#107_136#add the seasoning to the beef.
+fqqpdOpgkdc#300.78#training#126#269_276#put the sauce on the taco.
+GCwrUPndL4g#211.07#training#120#19_25#peel and chop shred the potatoes.
+5haTwcEIyE8#240.7#training#102#182_193#bake the onion rings in the oven.
+sb58mkT8_ak#310.03#training#403#41_45#add oil to a pan.
+sb58mkT8_ak#310.03#training#403#52_58#grate the garlic.
+sb58mkT8_ak#310.03#training#403#61_92#add coriander red pepper and onion powder to the pan.
+sb58mkT8_ak#310.03#training#403#93_105#add sugar vinegar and garlic to the pan.
+sb58mkT8_ak#310.03#training#403#108_116#add tofu to the pan.
+sb58mkT8_ak#310.03#training#403#123_129#add broth to the pan.
+sb58mkT8_ak#310.03#training#403#152_157#cook the noodles in a pot of boiling water.
+sb58mkT8_ak#310.03#training#403#159_166#add cabbage and carrots to the pan.
+sb58mkT8_ak#310.03#training#403#181_190#slice the basil.
+sb58mkT8_ak#310.03#training#403#198_205#add the noodles to the pan.
+dsI9QVhmsGg#167.78#training#124#48_60#stuff the hot dog.
+dsI9QVhmsGg#167.78#training#124#71_86#wrap each hot dog with bacon.
+z1S8WkUoQtU#186.74#training#102#85_110#add some club soda to the bowl and whisk.
+z1S8WkUoQtU#186.74#training#102#112_120#dip the rings into the batter.
+z1S8WkUoQtU#186.74#training#102#139_145#flip the onion rings over.
+z1S8WkUoQtU#186.74#training#102#150_160#remove the rings from the fryer.
+m6Fuxu5LjYg#307.68#training#105#56_89#add buttermilk egg salt and hot sauce and whisk.
+m6Fuxu5LjYg#307.68#training#105#90_111#add chicken to the mixture.
+m6Fuxu5LjYg#307.68#training#105#127_129#whisk the flour mixture.
+m6Fuxu5LjYg#307.68#training#105#194_204#heat vegetable oil in skillet.
+m6Fuxu5LjYg#307.68#training#105#205_255#fry the chicken.
+m6Fuxu5LjYg#307.68#training#105#256_264#drain the chicken.

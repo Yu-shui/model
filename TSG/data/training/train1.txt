@@ -1,0 +1,515 @@
+GLd3aX16zBg#241.62#training#113#114_127#132_138#place the bread slices on top of each other, not a slice of cheese.#38_76
+GLd3aX16zBg#241.62#training#113#139_145#173_174#cut the sandwich in half, not flip it over.#46_92
+XOwypmUT5cc#698.71#training#321#117_166#175_193#add 2 tbsp corn starch,not cooking oil.#530_698
+XOwypmUT5cc#698.71#training#321#580_588#600_618#add in the fried chicken, not the corn starch and water mixture. #193_386
+XOwypmUT5cc#698.71#training#321#77_98#269_319#mix some corn starch and water together, not sesame seeds.#572_698
+_xOx9hkJoBk#134.32#training#107#74_79#80_100#put the squid rings on a pan, not coat with the mixture.#24_48
+67ilysu8CeU#217.01#training#401#25_40#67_109#add tomato puree, not chopped onions. #181_217
+67ilysu8CeU#217.01#training#401#131_158#168_197#add some water, not chicken.#43_86
+nfYzqyureLo#259.09#training#222#28_54#161_165#chop fresh coriander, not lemon grass.#200_210
+nfYzqyureLo#259.09#training#222#173_180#196_210#transfer all the mussel shells out of the bowl, not put into the bowl. #57_114
+nfYzqyureLo#259.09#training#222#55_80#129_144#add coconut milk fish sauce and soy sauce into the pan, not onions. #220_259
+skrWT6xHVoI#191.59#training#120#74_80#133_155#spread the mixture loosely on the cooking sheet with olive oil, not pour on hash browns.#24_48
+BGCW_PWhY9g#106.42#training#317#62_75#78_89#place the chicken on pan to cook, not cut. #20_40
+EjHxMfOdl1k#287.34000000000003#training#127#68_90#94_113#stir the chicken, not cook in a pan. #229_287
+Ap3g0IRcjzU#492.52#training#304#180_209#214_225#cut a red onion into strips, not one green onion. #403_492
+Ap3g0IRcjzU#492.52#training#304#299_323#345_362#boil the chinese broccoli, not udon noodles. #99_198
+Ap3g0IRcjzU#492.52#training#304#412_419#425_449#add the premade sauce, not udon noodles.#137_274
+Ap3g0IRcjzU#492.52#training#304#245_267#372_411#fry the mushroom, not cut into thin slices. #81_162
+4AIahLZfNq4#319.06#training#423#43_72#84_110#add shrimp paste cloves tumeric and curry powder to the food processor, not onion chilis garlic. #249_319
+7nH0Y3agsas#218.29#training#202#98_126#129_173#add flour mixture tomatoes herbs and seasoning to the pan, not potatoes. #32_64
+wXA-1ZmvuEA#431.98#training#325#338_365#375_395#add egg and sesame oil, not cornstarch. #112_224
+wXA-1ZmvuEA#431.98#training#325#120_202#225_304#add soy sauce vinegar black pepper and sliced tofu, not oil. #389_431
+Kbrkj7wZ4UA#466.40999999999997#training#419#72_82#85_98#add melted butter yogurt minced garlic coriander leaves to the bowl, not baking powder. #343_466
+Kbrkj7wZ4UA#466.40999999999997#training#419#343_346#352_358#remove the naan from the pan, not flip it to the other side.#114_228
+Kbrkj7wZ4UA#466.40999999999997#training#419#160_166#235_293#roll a ball of dough into a thin shape, not wrap it in plastic wrap.#408_466
+pluBtIfxUvE#212.16#training#104#58_67#73_150#move the eggs in the pan, not pour on the lobster.#191_212
+pOP5Zzm19kc#300.58#training#323#24_38#41_57#add quinoa to a pot, not rinse with water.#219_300
+pOP5Zzm19kc#300.58#training#323#140_147#175_186#add the quinoa the the pan, not garlic. #46_92
+pOP5Zzm19kc#300.58#training#323#195_216#221_231#add green onion to the pan, not rice. #65_130
+dxSSb3tv5ZM#265.22#training#318#43_61#120_127#add some ground pepper to the green onions, not brown sugar. #219_265
+dxSSb3tv5ZM#265.22#training#318#191_213#226_256#cook the beef on a pan, not marinate.#63_126
+acMP2DOpWeA#174.94#training#108#63_69#71_86#add the dry ingredients, not milk. #145_174
+acMP2DOpWeA#174.94#training#108#53_57#94_97#cover the bowl with plastic wrap, not mix. #148_174
+acMP2DOpWeA#174.94#training#108#100_104#105_115#place the pan on a wet towel, not heat over medium heat.#33_66
+Gs3OGfQbPjc#156.53#training#102#83_97#103_130#fry the onion rings in shallow oil, not coat.#27_54
+TkK7BbBNPaY#273.23#training#209#24_30#53_60#add the lamb to the pan, not oil.#202_273
+TkK7BbBNPaY#273.23#training#209#132_149#153_157#add thyme to the pan, not worcester sauce.#44_88
+TkK7BbBNPaY#273.23#training#209#126_130#236_247#add mashed potatoes on top of the lamb, not a small bowl of flour.#42_84
+_bICKhr9AGo#344.65#training#413#178_190#198_209#slice a baguette lengthwise, not pork. #59_118
+_bICKhr9AGo#344.65#training#413#95_106#108_120#add carrot and daikon to the bowl, not vinegar.#269_344
+_bICKhr9AGo#344.65#training#413#297_301#314_318#add pork floss to the sandwich, not simmering mixture.#99_198
+dxK5n3J9pdY#430.38#training#418#178_198#240_264#add blended tomatoes to pan, not oil.#59_118
+dxK5n3J9pdY#430.38#training#418#274_284#298_304#add salt and black salt, not  coriander.#91_182
+dxK5n3J9pdY#430.38#training#418#307_324#345_364#add ground masala machu powder and water, not chick peas.#102_204
+pOWe4zB-E-4#275.5#training#425#78_114#130_150#add black pepper and grated coconut, not ginger.#233_275
+pOWe4zB-E-4#275.5#training#425#228_235#256_263#fold the dosa over, not flip. #76_152
+zEdAA9Oxpdw#211.32#training#219#50_71#78_112#saute the chopped cabbage, not chop. #178_211
+zEdAA9Oxpdw#211.32#training#219#114_150#151_203#add salt ground mustard seed brown sugar, not cider vinegar.#38_76
+7Ui4OCsawAU#451.88#training#215#58_68#69_85#chop a few cloves of garlic, not stalk of parsley.#329_451
+7Ui4OCsawAU#451.88#training#215#181_208#217_224#add the escargot inside the shells, not butter mixture.#375_451
+7Ui4OCsawAU#451.88#training#215#283_290#314_338#place the escargot onto a tray, not dip into the breadcrumbs.#94_188
+frCFxOt9390#276.46#training#405#101_119#121_124#add white vinegar and brown vinegar, not chopped garlic.#225_276
+frCFxOt9390#276.46#training#405#128_136#144_158#add the spice powder, not brown sugar.#42_84
+frCFxOt9390#276.46#training#405#159_166#167_195#cover the pot, not heat up.#53_106
+frCFxOt9390#276.46#training#405#198_214#224_236#stir the pot, not move from the direct heat.#66_132
+HXqC_xWsKkY#192.6#training#221#92_114#115_129#pour the tomatoes into the slow cooker, not add to a pan.#30_60
+_XxXWiOoyhY#490.69#training#319#48_65#80_95#cook the mushrooms in a pan, not meat.#358_490
+_XxXWiOoyhY#490.69#training#319#103_115#121_132#cook the carrots in a pan, not bean sprouts.#371_490
+_XxXWiOoyhY#490.69#training#319#233_241#348_365#place the egg on top, not poach in water. #77_154
+wch6oe0FjN8#365.83#training#412#224_265#267_305#add the shrimp pineapple, not ginger garlic.#74_148
+MZbrWzqEntk#199.32999999999998#training#202#29_34#35_39#add the chopped potatoes to a pot, not lentils.#145_199
+MZbrWzqEntk#199.32999999999998#training#202#0_22#45_53#boil the potatoes, not chop.#150_199
+MZbrWzqEntk#199.32999999999998#training#202#76_91#98_110#add some onion powder, not fennel seeds.#169_199
+MZbrWzqEntk#199.32999999999998#training#202#62_74#111_114#add chopped carrots, not broccoli.#170_199
+MZbrWzqEntk#199.32999999999998#training#202#56_61#142_147#add the lentils to the soup, not drain.#175_195
+-xbTvALWCIg#455.02#training#311#94_104#153_175#cook the salmon in the bag, not  soak in the brine.#361_455
+-xbTvALWCIg#455.02#training#311#182_248#271_292#place salmon on the plate, not separate into pieces.#60_120
+UA7wqVe8Kpo#185.9#training#228#58_106#106_126#add black pepper, not chickpeas.#165_185
+Moh7iYf2rGo#238.8#training#109#153_171#171_206#put the chicken into bowl of sauce, not add to the fryer.#51_102
+Moh7iYf2rGo#238.8#training#109#13_38#39_60#add the chicken, not salt.#179_238
+z_ZHVTqbSZo#266.08#training#421#37_56#58_75#add chopped onions, not green chili.#202_266
+z_ZHVTqbSZo#266.08#training#421#78_96#97_112#add one cup of water, not red chili flakes. #214_266
+z_ZHVTqbSZo#266.08#training#421#24_36#113_121#add some mashed potatos, not garlic paste.#217_266
+GmWb7W7m2vs#428.84#training#412#12_16#20_30#drain the water in rice, not add.#295_428
+GmWb7W7m2vs#428.84#training#412#145_155#170_175#put lid on the frying pan, not chicken pieces.#344_428
+GmWb7W7m2vs#428.84#training#412#20_55#60_74#cook the rice, not add.#310_428
+GmWb7W7m2vs#428.84#training#412#290_296#301_312#add chili garlic sauce, not fried chicken pieces. #96_192
+GmWb7W7m2vs#428.84#training#412#330_341#352_381#add pepper vinegar, not cooked rice.#110_220
+2p_h3s1CPoc#291.46#training#229#78_85#98_123#drain the chickpeas, not soak with water. #235_291
+2p_h3s1CPoc#291.46#training#229#138_157#172_189#add a little salt, not some blended chickpeas.#46_92
+2p_h3s1CPoc#291.46#training#229#210_220#236_245#add the falafel balls to the oil, not form.#70_140
+DXYCXcuifM8#127.78#training#117#44_56#57_77#add some chopped chilies, not a pinch of salt.#110_127
+DXYCXcuifM8#127.78#training#117#78_95#106_109#place the cooked egg on toast, not flip.#26_52
+UfWND-lc4sc#189.82#training#309#75_81#88_93#add the cabbage to the beef, not corn starch.#157_189
+UfWND-lc4sc#189.82#training#309#144_154#155_164#add the potstickers to the pan, not peanut oil.#48_96
+y-Jxli-JfPg#137.35#training#210#46_63#63_79#mix flour with the potato mixture, not pepper.#117_137
+C_6yMh3tEQk#529.53#training#403#177_222#249_278#add 1 clove of chopped garlic in a pan, not cooking oil.#445_529
+C_6yMh3tEQk#529.53#training#403#292_329#340_343#add pad thai sauce, not soaked rice noodles.#97_194
+C_6yMh3tEQk#529.53#training#403#354_362#389_431#add some shrimp, not sugar.#118_236
+7-WEdqJBXoQ#473.65999999999997#training#109#152_167#173_188#coat the chicken with the bread crumb powder, not dip in egg.#378_473
+Krmi9Is522c#610.08#training#421#207_219#236_258#add the mashed potatoes, not salt.#492_610
+Krmi9Is522c#610.08#training#421#156_205#269_282#add chopped coriander leaves, not water.#500_610
+Krmi9Is522c#610.08#training#421#90_132#499_539#heat oil in a pan, not add.#200_220
+1k64hSAAAd4#63.46#training#117#5_8#8_14#add milk, not eggs.#46_63
+1k64hSAAAd4#63.46#training#117#21_25#47_51#pour the sauce over the dish, not egg mixture.#0_5
+ffoRmenLSLs#169.55#training#216#47_52#58_68#cook the sausges, not place on the grill.#135_169
+Vi9BxQvpdpQ#482.8#training#418#160_181#185_200#add ginger garlic paste, not onion.#388_482
+Vi9BxQvpdpQ#482.8#training#418#43_68#71_86#add yogurt, not baking soda.#350_482
+Vi9BxQvpdpQ#482.8#training#418#205_236#243_270#add tomatoes, not chana masala.#411_482
+3r8A4xCZgPQ#315.61#training#305#53_102#103_110#wash the radish, not peel.#247_315
+nqyO0ovASOg#301.69#training#120#75_102#102_158#add chopped potatoe in the skillet, not olive oil.#253_301
+0hVAuvPAIzA#292.04#training#301#120_139#140_148#add corn starch, not chicken.#244_292
+0hVAuvPAIzA#292.04#training#301#165_184#198_204#add garlic green onions to the wok, not chicken.#55_110
+0hVAuvPAIzA#292.04#training#301#209_213#229_235#add roasted peanuts to wok, not sauce.#69_138
+PKt_za_XfF8#219.66#training#120#14_25#54_65#put potatoes in a bowl, not boil it.#168_219
+PKt_za_XfF8#219.66#training#120#29_39#124_133#spread some butter on top of the evenly spread potato mash, not heat in a pan. #190_219
+HghNzA9BJAU#237.19#training#308#42_59#65_85#mix the tuna with scallions and sriracha, not slice into cubes.#186_237
+HghNzA9BJAU#237.19#training#308#148_158#174_207#roll up the sheet, not flip over.#49_98
+L-NOPLU4JOQ#436.14#training#419#73_110#117_133#add yogurt to mixing bowl, not flour.#335_436
+L-NOPLU4JOQ#436.14#training#419#167_170#200_213#knead the dough, not cover.#361_436
+L-NOPLU4JOQ#436.14#training#419#135_153#214_227#break dough into equal size balls, not knead.#366_436
+L-NOPLU4JOQ#436.14#training#419#295_320#311_352#place the dough in oven, not fry.#98_196
+uxEhH6MPH28#247.72#training#105#68_84#113_134#coat the chicken in the seasoned flour, not place in a bowl.#209_247
+uxEhH6MPH28#247.72#training#105#135_156#197_205#transfer the chicken from the pot to a rack, not fry.#45_90
+aCZPq6uRZa4#189.89#training#120#53_56#56_75#add salt pepper garlic powder to the bowl, not hash browns.#151_189
+IqD6qnug7tc#158.18#training#324#66_73#73_89#add lemongrass galangal crushed vegetables to boiling water, not chicken stock cube. #135_158
+IqD6qnug7tc#158.18#training#324#90_109#111_125#add the seafood and mushrooms, not lime juice.#30_60
+a3ZvOvo49WE#604.42#training#216#51_110#214_247#add the onions onto the pan covering the bratwurst, not cut into inch slices.#485_604
+a3ZvOvo49WE#604.42#training#216#115_208#310_355#place the bratwurst on direct heat on the grill, not sear. #521_604
+l1YSzo9n8EE#273.67#training#113#180_189#210_227#remove the sandwich from the pan, not flip to the other side.#60_120
+gbN0iw4VbBs#55.63#training#116#9_12#13_26#stick the pepperoni slices in between the cheese sticks, not cut into halves.#45_55
+5I-_uJQ0t1o#490.72#training#107#218_222#257_264#cut the cleaned squid into rings, not peel.#415_490
+5I-_uJQ0t1o#490.72#training#107#280_285#319_376#coat the squid rings with some flour and black pepper, not soak with milk.#93_186
+Zoud8fEbWhE#553.5#training#226#82_97#98_142#add finely chopped green onion, not diced cucumber green pepper.#416_553
+Zoud8fEbWhE#553.5#training#226#376_388#404_438#add in some olive oil, not a little bit maple syrup.#125_250
+D0EAxdmzjzE#254.54#training#124#41_60#73_95#coat shallots in brown sugar, not toss.#201_254
+D0EAxdmzjzE#254.54#training#124#101_117#167_180#cook sausages on the grill pan, not coat with oil.#33_66
+CIRA1IC9shc#379.9#training#223#64_81#91_155#cook the beef in the pan, not bacon.#304_379
+CIRA1IC9shc#379.9#training#223#163_178#182_195#add the beef to the pan, not oil.#318_379
+CIRA1IC9shc#379.9#training#223#196_203#317_323#season mushrooms with salt and pepper, not the ingredients.#65_130
+CIRA1IC9shc#379.9#training#223#262_287#302_315#add mushrooms to the pan, not tomato paste.#87_174
+SHGY7kKeLq8#233.18#training#216#111_130#139_147#take the cooked brat out, not cook in a pan.#37_74
+rO2UhGnexwY#177.29#training#226#52_85#100_117#add olive oil lemon juice, not tomatos.#157_177
+-sQXBqu-_1w#406.5#training#323#53_70#128_130#add the pork, not slice.#314_406
+-sQXBqu-_1w#406.5#training#323#247_283#285_295#add chopped onions to the wok, not oil.#82_164
+-sQXBqu-_1w#406.5#training#323#298_303#305_324#add the rice, not broccoli.#99_198
+bQ3QYyFglc0#272.09000000000003#training#101#69_80#89_100#put some avocado on top, not tomato slices. #214_272
+bQ3QYyFglc0#272.09000000000003#training#101#133_143#146_154#put more mayo on top, not lettuce.#44_88
+jGnz9f_2A2Y#440.48#training#306#58_93#306_330#dip the prawns in the batter, not peel.#200_220
+jGnz9f_2A2Y#440.48#training#306#354_359#361_370#coat the prawns with the seasoning powder, not drain.#118_236
+asoMkznFaCU#244.26#training#215#162_172#173_216#wrap the mixture, not put on paper.#54_108
+qndZKzNHpwc#520.99#training#308#114_164#219_224#place scallians on the seaweed, not a ball of rice.#421_520
+Aa4rc5Exz24#210.28#training#108#33_42#44_58#add some melted butter, not whole milk.#159_210
+5yJz2Sc7T5k#243.3#training#107#68_93#94_106#add some red chili powder squid paste, not pepper.#197_243
+ZLA9W7R4a_c#186.41#training#325#37_64#65_90#add white spring onions, not chopped chilies.#154_186
+ZLA9W7R4a_c#186.41#training#325#91_109#110_134#add water, not chilli sauce. #30_60
+dl4NvSA3hRI#471.25#training#412#65_118#163_192#add the garlic to the wok, not crush. #378_471
+dl4NvSA3hRI#471.25#training#412#192_222#278_297#add rice to the wok, not fish sauce.#64_128
+GLzyCOTbwcU#498.53#training#124#237_273#365_418#place the patty in the bun, not add to a pan.#79_158
+1R9d_EJPZ-w#202.34#training#107#90_92#96_114#add some pressed garlic to the pan, not extra virgin olive oil.#30_60
+1R9d_EJPZ-w#202.34#training#107#40_52#142_184#stir fry the squid, not clean.#100_120
+6gObQR5Vm4M#593.2#training#219#176_187#376_397#put the cabbage into the jar, not cut into small pieces. #527_593
+tXfLb2JyZI0#260.58#training#410#39_44#50_88#roll the dough out, not dip in the flour.#203_260
+tXfLb2JyZI0#260.58#training#410#98_118#118_121#flip the roti over in the pan, not cook.#214_260
+aG7C1vjn1Lw#143.86#training#110#50_64#66_81#cook the chicken breast in the pan, not season it with salt.#122_143
+Ex2yu23wyHA#249.48#training#304#18_60#119_180#add the cooked noodles, not cook.#226_249
+Ex2yu23wyHA#249.48#training#304#97_118#188_192#add sesame oil, not stock.#32_64
+2uApOypvnZI#322.43#training#207#205_229#230_240#deep fry the cod in a frying pan, not coat.#68_136
+I8ckIq2-j0k#388.08#training#207#149_160#176_192#remove the potatoes from the pot, not add to the pot. #322_388
+I8ckIq2-j0k#388.08#training#207#231_233#253_260#remove the fish from the pot, not place it in the pot.#77_154
+I8ckIq2-j0k#388.08#training#207#265_268#277_289#remove the potatoes from the pot, not place it in the pot.#88_176
+I8ckIq2-j0k#388.08#training#207#77_84#102_135#add soda water to the bowl, not cayenne pepper.#303_388
+91Fz5ZBgeL4#220.45#training#323#101_120#120_140#add the chopped vegetables to the wok, not oil. #33_66
+Tf-gY_-pT1U#469.97#training#218#23_40#60_62#boil potatoes, not peel.#333_469
+Tf-gY_-pT1U#469.97#training#218#63_70#73_80#sautee onions, not chop.#339_469
+Tf-gY_-pT1U#469.97#training#218#149_186#196_210#add two table spoons of sour cream, not two egg yokes.#383_469
+Tf-gY_-pT1U#469.97#training#218#268_276#319_330#roll out dough to 1/8 inch thickness, not cover with paper. #89_178
+sT594H2u4kk#170.95#training#212#91_95#99_112#strain the potatoes, not add.#30_60
+5E3kulJRzGY#338.36#training#405#104_114#152_170#cook the lamb in a pan, not season with salt and papaya paste.#282_338
+TFJ6oR89Vb8#161.52#training#104#47_55#56_65#add feta cheese basil to the eggs, not red pepper flakes.#129_161
+TFJ6oR89Vb8#161.52#training#104#76_86#90_104#mix the eggs together, not pour into the pan.#25_50
+0Mz4NTozNXw#210.56#training#102#97_112#115_134#deep fry the onion rings in oil, not coat in the bread crumbs.#32_64
+GYolHIuQlEY#56.48#training#410#2_9#10_14#press down on the ball of dough, not roll.#42_56
+GYolHIuQlEY#56.48#training#410#20_27#28_41#roll out the dough into a flat circle, not coat in flour.#6_12
+9cDDAEsdb7A#321.22#training#114#51_58#61_93#add the potatoes, not salt. #245_321
+9cDDAEsdb7A#321.22#training#114#34_42#96_100#take the potatoes out, not cut into halves.#247_321
+9cDDAEsdb7A#321.22#training#114#151_170#178_184#add in some chicken stock in the pan, not some flour.#50_100
+hL0kuCIfFJI#260.27#training#412#97_105#120_130#add soy sauce bell peppers, not minced garlic.#216_260
+hL0kuCIfFJI#260.27#training#412#133_155#163_177#add a little salt sesame seeds, not curry powder.#44_88
+0Y8z5xbGKqI#135.86#training#410#30_37#39_47#roll the dough into a ball, not cover with plastic wrap.#106_135
+bFoIJCDEqGw#326.36#training#311#150_188#191_227#pat the slices dry, not brine.#50_100
+C67CT1mdkzI#288.09000000000003#training#410#75_87#135_160#pat the dough onto dry flour, not knead.#245_288
+C67CT1mdkzI#288.09000000000003#training#410#161_172#173_185#place the dough onto a pan over heat, not flip between your hands.#53_106
+C67CT1mdkzI#288.09000000000003#training#410#186_190#195_208#remove the roti from the pan, not flip to the other side.#62_124
+PTgdWWK2SPQ#400.64#training#225#151_193#197_231#add 1 pound of cannellini beans, not processed vegetable mixture.#344_400
+PTgdWWK2SPQ#400.64#training#225#270_294#300_312#add 1 cup of raw paste, not chicken stock.#90_180
+SUrLFp8IwRw#671.38#training#230#49_83#85_128#dice pork, not chicken breasts.#490_671
+SUrLFp8IwRw#671.38#training#230#278_309#328_344#cut the tomato, not green bell pepper. #562_671
+91z7e22XGy8#319.81#training#218#21_30#40_67#mash the potato with salt pepper and cayenne pepper, not boil.#235_319
+91z7e22XGy8#319.81#training#218#176_185#226_245#place the pierogis in the pan with bacon, not boil.#58_116
+COKrOqleb1k#341.38#training#410#8_34#35_90#add boiling water to the bowl, not butter.#257_341
+COKrOqleb1k#341.38#training#410#137_140#141_161#flatten the small pieces of dough into rotis using a roller, not pinch out.#281_341
+QpDxIXV6VTE#454.54#training#121#240_247#262_264#cut  pancetta into cubes, not potatoes.#80_160
+QpDxIXV6VTE#454.54#training#121#321_333#357_362#add clam meat into the soup, not separate from the shells.#107_214
+i4ZAwUoP8c4#215.24#training#221#69_74#75_82#add pepper corns bay leaves, not 2 tbsps of paprika.#170_215
+i4ZAwUoP8c4#215.24#training#221#171_175#176_199#add some more water, not 1 tsp of ground caraway seeds.#57_114
+PXYabjc__UU#168.42000000000002#training#406#40_66#104_133#roll the rice paper tuck, not soak in water.#13_26
+tKWl-njXhP0#426.25#training#218#65_120#122_193#roll the dough, not knead.#348_426
+tKWl-njXhP0#426.25#training#218#273_307#308_365#fry the pierogi, not cook in boiling water.#91_182
+7EDUOK75P2E#422.44#training#304#34_42#47_57#fry the chicken, not garlic.#300_422
+7EDUOK75P2E#422.44#training#304#117_128#147_156#add szechuan stir fry sauce to the pan, not onion.#333_422
+7EDUOK75P2E#422.44#training#304#158_178#203_206#add the chicken to the pan, not snow peas. #350_422
+7EDUOK75P2E#422.44#training#304#252_283#320_330#add stir fry sauce to the pan, not udon noodles.#84_168
+nfO0YS2dSdw#368.26#training#121#25_49#71_86#put some diced celery, not olive oil.#274_368
+nfO0YS2dSdw#368.26#training#121#52_70#87_106#add clam juice, not diced onion.#280_368
+nfO0YS2dSdw#368.26#training#121#132_139#174_185#add cream, not black pepper.#307_368
+nfO0YS2dSdw#368.26#training#121#206_223#235_250#dd in the scallops, not fresh lemon zest.#68_136
+CYadKq5-FRg#211.14#training#316#39_53#58_76#chop the seaweed, not soak in water.#166_211
+CYadKq5-FRg#211.14#training#316#76_88#154_173#add tofu to a bowl, not slice.#25_50
+cCAct_Q8QTw#171.52#training#112#63_71#72_90#drain pasta, not cook in water.#144_171
+DOpNRTefVjE#358.54#training#418#75_116#116_139#add two finely chopped onions to the pan, not oil.#285_358
+DOpNRTefVjE#358.54#training#418#140_150#171_186#add chopped tomato to the pan, not chana masala powder.#301_358
+DOpNRTefVjE#358.54#training#418#187_216#240_254#pour the chickpeas to the pan, not red chili powder.#62_124
+DOpNRTefVjE#358.54#training#418#275_290#291_306#add cumin powder to the pan, not dry mango powder.#91_182
+2Rn2tM9Rgg8#603.63#training#403#192_198#209_218#add diced tofu, not garlic.#475_603
+2Rn2tM9Rgg8#603.63#training#403#265_288#342_349#add fresh noodles, not shrimp.#88_176
+2Rn2tM9Rgg8#603.63#training#403#368_410#414_418#add eggs, not water.#122_244
+2Rn2tM9Rgg8#603.63#training#403#445_460#465_472#add bean sprouts, not sauce. #148_296
+Rc9kXItj6ic#176.96#training#204#49_62#63_91#add the tomato sauce, not a little bit of garlic.#148_176
+Rc9kXItj6ic#176.96#training#204#93_109#113_117#add one cup of frozen peas, not a little bit of vodka.#31_62
+jxMQRNpUsXc#153.54#training#206#106_131#132_136#take the spaghetti out, not drain.#35_70
+KmqfNQG1BXk#282.06#training#314#26_35#39_48#take out the pork, not put in a pot.#204_282
+KmqfNQG1BXk#282.06#training#314#86_108#108_109#put the eggs in the marinated pork liquid, not peel.#224_282
+KmqfNQG1BXk#282.06#training#314#175_177#183_190#cut some naruto maki, not cilantro.#58_116
+zW4yoTwjtJs#265.73#training#318#24_31#32_42#rinse the ribs, not soak in water.#191_265
+zW4yoTwjtJs#265.73#training#318#76_101#181_229#grill the ribs, not place in a mixing bowl.#0_50
+Ij-B7-rcK0Q#319.62#training#211#46_50#80_89#add butter to the pot, not salt.#242_319
+Ij-B7-rcK0Q#319.62#training#211#179_205#206_213#season the potatoes with black pepper, not add to a pot.#59_118
+QS0I7mLQIgc#424.88#training#122#26_52#58_74#add finely chopped garlic, not olive oil.#307_424
+QS0I7mLQIgc#424.88#training#122#143_155#159_175#add 3tbs of regular long grain rice, not little sugar.#341_424
+dmJB7NHZ2cI#329.76#training#102#117_137#138_177#add yogurt, not breadcrumbs.#278_329
+dmJB7NHZ2cI#329.76#training#102#196_219#220_280#deep fry the onion rings in oil, not dip into the batter and the breadcrumbs.#65_130
+obixe3__Sjk#277.5#training#212#25_29#31_45#add celery to the pan, not oil.#200_277
+VcIF3HOI9wI#326.78#training#101#140_162#192_215#place the bacon pieces on one toast, not flip.#46_92
+W2xZWTltJ10#733.4#training#418#63_95#107_111#add finely chopped onions, not cumin seeds.#525_733
+W2xZWTltJ10#733.4#training#418#136_185#186_215#add 3 finely chopped green chilies, not salt.#560_733
+W2xZWTltJ10#733.4#training#418#416_464#465_505#add the boiled chana water, not carom seeds.#138_276
+W2xZWTltJ10#733.4#training#418#515_562#577_592#add kasuri methi, not cooked chana.#171_342
+dqksjDlrqq8#470.54#training#323#127_159#205_247#add nice drizzle of sage dried thyme paprika freshly ground pepper and salt, not 1 lb of minced pork.#396_470
+dqksjDlrqq8#470.54#training#323#162_195#296_319#finely chop 1 bowl full of parsley, not 4 cloves of garlic.#54_108
+SqLOMJ2D_SM#159.88#training#316#18_34#60_75#put the flakes in the water, not kombu.#131_159
+aqH_V3yLtrY#180.02#training#213#29_32#48_60#add milk to the pot, not butter.#140_180
+I9nR5rDP7nQ#245.09#training#107#94_122#187_199#chop the lemon, not squid.#31_62
+0VBNakxmATU#82.62#training#112#21_28#35_40#add the cheese to the pasta, not cut into cubes.#68_82
+SsafTopywFo#587.74#training#122#73_92#125_155#add the potatoes to the pot, not oil. #443_587
+SsafTopywFo#587.74#training#122#45_73#92_125#chop some potatoes, not onion.#433_587
+SsafTopywFo#587.74#training#122#155_178#296_383#dd 4 cups of chicken stock to the pot, not green chilies.#519_587
+SsafTopywFo#587.74#training#122#178_201#383_434#add some fresh basil salt in the pot, not tomatoes.#500_589
+SsafTopywFo#587.74#training#122#201_296#434_484#pour the mixture in the blender, not stir.#67_134
+bUIHg-RNR28#344.44#training#107#188_230#268_280#fry the squid rings in oil in a pan, not coat with mixture of flour pepper salt and paprika.#62_124
+arQZ2m0hMSU#309.1#training#405#86_91#102_110#add the onions to the pan, not cardamom.#242_309
+arQZ2m0hMSU#309.1#training#405#175_179#184_192#add spice to the pan, not a cup of water.#58_116
+arQZ2m0hMSU#309.1#training#405#235_252#257_270#plate the mutton over rice, not stir.#78_156
+5olHoTWB1Hw#409.34000000000003#training#106#12_19#23_32#boil the macaroni, not water.#283_409
+5olHoTWB1Hw#409.34000000000003#training#106#67_95#102_113#season the mixture with pepper and smoked paprika, not whisk.#310_409
+P7bsYTDILps#275.01#training#119#130_136#137_142#pour whisked egg on to it, not sauce.#230_275
+P7bsYTDILps#275.01#training#119#104_109#114_120#whisk egg, not the mixture.#223_275
+p2wKeNmzIJ0#474.86#training#219#196_278#321_338#add some water to the crock to immerse the cabbage, not 1 tbsp salt.#65_130
+IdEZ7LvLZPE#197.0#training#104#66_68#102_134#cook the eggs in the pan, not crack in a cup. #22_44
+WWoxlXWGYTA#766.18#training#401#48_73#73_171#add cinnamon in the pan, not black pepper.#567_766
+WWoxlXWGYTA#766.18#training#401#193_371#488_529#add chopped green chilies to the pot, not onions.#687_766
+WWoxlXWGYTA#766.18#training#401#529_546#546_596#add the spice mix the to pot, not chicken.#176_352
+dC9gJsXAXGU#204.06#training#307#67_92#100_137#roll the sheet, not flip.#181_204
+k89aq4jtiNM#284.49#training#403#113_129#135_158#add some rice noodles, not chopped tofu.#242_284
+k89aq4jtiNM#284.49#training#403#167_176#180_188#add fish sauce, not tamarind cameron.#55_110
+yBsMxYO8fZo#326.15#training#302#33_38#79_87#place the chicken in the pan, not cut into strips.#246_326
+yBsMxYO8fZo#326.15#training#302#55_67#124_174#cut the carrot, not chili.#275_326
+okvTq8gtr8c#388.78#training#301#133_152#157_164#add the chicken pieces to the pot, not dressing garlic.#313_388
+HeG0xZ-U_4w#172.1#training#116#18_50#55_60#add tomato puree to the pan, not garlic. #134_172
+1dIa_dJUxro#230.07999999999998#training#115#106_135#141_162#stick the tofu in the wooden stick, not cut into strips.#35_70
+UvuV9z3HkDo#240.9#training#305#57_73#75_86#put the cabbage in a large bowl, not cut into squares.#189_240
+L5IxNIODQkc#196.09#training#117#51_86#87_104#remove eggs from the pot, not heat in a pot.#165_196
+DzRIphFQ2Jc#188.16#training#324#20_24#62_67#slice the eggs, not boil in water. #147_188
+DzRIphFQ2Jc#188.16#training#324#44_60#68_77#boil the udon noodles in another pot, not tofu. #151_188
+APKue3kxJmg#518.84#training#205#240_243#275_318#stretch the dough, not cover.#80_160
+M-SB6et-mkg#334.5#training#221#101_117#117_135#add tomato puree to the pot, not garlic.#268_334
+9K3HfJqsY-M#163.21#training#316#74_119#124_139#add the tofu, not dashi granules miso.#24_48
+ny7G1uw36J0#480.66#training#413#146_159#175_201#add a pepper to the blender, not mango.#387_480
+qmoqJRP5N6E#338.14#training#103#160_163#171_173#fry bok choy in another pan, not noodles burger.#283_338
+UB1_MNpdvgs#745.01#training#221#402_420#442_451#add water to the pot, not paprika.#134_268
+UB1_MNpdvgs#745.01#training#221#460_477#479_503#add the potatos to the pot, not cayenne.#153_306
+UB1_MNpdvgs#745.01#training#221#512_525#595_613#add the flour mixture to the pot, not beef paste.#170_340
+UB1_MNpdvgs#745.01#training#221#356_360#624_635#add the marjoram to the pot, not oil.#118_236
+GLYC8yfRSzE#211.19#training#224#15_22#37_49#pound the meat until flat,not slice the into pieces. #157_211
+GLYC8yfRSzE#211.19#training#224#76_81#82_107#coat the meat in flour egg and breadcrumbs, not season with salt and pepper.#176_211
+zuQfLg46-Yc#300.35#training#225#115_130#140_149#add the tomatos to the pot, not garlic.#249_300
+zuQfLg46-Yc#300.35#training#225#192_200#212_219#add the pasta to the pot, not water.#64_128
+6jQF0_tuGdU#179.29#training#124#7_14#15_26#add chopped white onion to the pan, not olive oil.#128_179
+6jQF0_tuGdU#179.29#training#124#42_48#51_65#add some tomato paste to the pan, not one clove of garlic.#141_179
+6jQF0_tuGdU#179.29#training#124#68_75#76_82#add some red wine vinegar to the pan, not sugar.#146_179
+6jQF0_tuGdU#179.29#training#124#83_87#91_101#add hot sauce to the pan, not water.#27_54
+vHpqMItXGzg#211.91#training#109#67_89#90_127#fry the chicken pieces in oil for 5 minutes on each side under medium flame, not coat with flour powder and egg mix simultaneously.#183_211
+vHpqMItXGzg#211.91#training#109#45_61#173_195#mix the chicken with sauce, not cut into little bit size chunks.#80_120
+vL2hqbnR5HY#214.97#training#208#54_67#75_110#add stock to the pan, not oil. #179_214
+LyHg4jZM3Xo#250.58#training#304#83_102#111_133#add vinegar to the wok, not udon noodles.#211_250
+6bZ4ZJtRmaE#356.47#training#126#166_199#212_220#put the meat onto two soft tortillas, not cut into small pieces.#55_110
+6bZ4ZJtRmaE#356.47#training#126#240_249#250_265#add some pico de gallo to the tortillas, not manchego cheese.#80_160
+6bZ4ZJtRmaE#356.47#training#126#270_279#287_293#add hot sauce to the tortillas, not guacamole.#90_180
+aloPXuBLkDs#145.22#training#227#13_23#75_94#add the parsley to the wheat, not chop up.#100_140
+X1mE2IWeamI#297.34000000000003#training#404#122_136#142_186#add garlic, not pepper.#40_80
+9gCiWOadMuc#202.72#training#317#88_93#122_141#add sauce , not a little pepper.#29_58
+FQRC8urWpew#265.8#training#221#46_59#94_99#add tomatos to the pan, not oil.#210_265
+FQRC8urWpew#265.8#training#221#104_108#132_139#add the meatballs to the pan, not a beef stock cube.#223_265
+gRoxcqIRXOU#215.7#training#410#51_66#67_71#place the dough back in the bowl, not knead for three or four minutes.#167_215
+gRoxcqIRXOU#215.7#training#410#77_83#92_118#press the dough out into a disk, not cut into four pieces.#183_215
+LV943DshjOc#356.45#training#122#79_93#149_155#heat some butter in a pan,not tomato paste.#289_356
+LV943DshjOc#356.45#training#122#163_195#278_287#add black pepper, not diced carrots.#54_108
+1-SJGQ2HLp8#395.1#training#205#80_105#108_120#pull the dough, not take out.#303_395
+1-SJGQ2HLp8#395.1#training#205#130_150#180_198#place the dough on a pan with flour, not cut into fourths.#329_395
+WEAobzGzPFI#224.54#training#316#50_75#99_103#dd 1 cup of chopped broccoli, not carrots. #184_224
+xp899pkRCew#220.9#training#124#80_87#138_149#glue the french fries to the dog, not add to a bowl.#26_52
+ixaY3TcKFFA#397.36#training#105#210_238#266_281#place the chicken in the oil, not coat in the flour mixture.#70_140
+hrj_nf_ApD0#230.76#training#214#57_59#101_109#remove the foie gras from the pan onto a plate, not season with pepper.#190_230
+hrj_nf_ApD0#230.76#training#214#115_129#155_162#transfer the figs to a plate, not add.#38_76
+UzqlXpAAAWk#78.74#training#212#27_31#50_60#drain the potatoes, not boil in a pot of water.#9_18
+gbkXkxwlYjw#410.34000000000003#training#323#25_55#56_98#add pork chops to the wok with salt and pepper, not ginger.#306_410
+gbkXkxwlYjw#410.34000000000003#training#323#103_130#137_174#add doubanjiang to the wok, not shredded cabbage.#331_410
+gbkXkxwlYjw#410.34000000000003#training#323#178_266#271_309#add mirin soy sauce to the wok, not sesame oil.#59_118
+QWhn9Ncvvso#238.52#training#101#24_50#62_73#toast the bread slices, not take on a plate. #183_238
+G5DNP4qv51c#219.14#training#419#77_87#92_109#spread the blended mixture onto the sheet, not oil.#182_219
+G5DNP4qv51c#219.14#training#419#27_48#123_151#place onions on top, not add to the blender. #200_210
+C2cNcOXGyZA#235.8#training#201#14_45#45_72#cover the chicken in plastic wrap, not cut open.#181_235
+C2cNcOXGyZA#235.8#training#201#88_114#137_153#fry the chicken on each side, not coat with flour. #29_58
+C2cNcOXGyZA#235.8#training#201#114_137#205_211#bake the chicken, not coat with egg.#38_76
+JzU12Qf5FPg#564.27#training#105#292_348#374_419#flip the chicken, not fry.#97_194
+JzU12Qf5FPg#564.27#training#105#426_464#489_503#place the chicken on paper towel, not bake in the oven.#142_284
+M4cDslY_qCg#189.58#training#110#39_49#130_135#chop some lettuce to small pieces, not pieces of bread.#150_180
+v7U70gPylBA#449.51#training#221#49_77#92_102#add 2 tsp paprika, not 5 cherry tomatoes.#333_449
+v7U70gPylBA#449.51#training#221#109_128#131_133#add 1 cup of water, not 1 lbs chopped pork meat.#344_449
+v7U70gPylBA#449.51#training#221#159_161#190_216#add a cup of celery, not 1 tsp salt.#371_449
+v7U70gPylBA#449.51#training#221#245_247#256_276#add 2 cups of water stir, not 1 tsp of caraway seeds. #81_162
+GridojtCXDE#590.25#training#409#89_95#150_152#add green chilis to the pan, not boiled potatoes. #444_590
+GridojtCXDE#590.25#training#409#170_183#195_207#add the yogurt and paneer to the pan, not a packet of biryani masala.#462_590
+GridojtCXDE#590.25#training#409#139_148#301_314#add yogurt, not chopped mint.#498_590
+EN1Qf9vcnN0#393.0#training#419#93_116#185_197#spread the dough out, not knead.#327_393
+EN1Qf9vcnN0#393.0#training#419#198_209#217_227#flip the bread over, not place on the pan.#66_132
+o4gTZoW0SXI#214.4#training#412#101_129#130_155#add red bell pepper which are finely chopped, not shrimp.#33_66
+Gf4eEhDpxgk#294.29#training#104#44_97#156_164#pour the eggs into the pan, not whisk.#250_294
+Gf4eEhDpxgk#294.29#training#104#185_248#249_256#place the eggs onto a serving plate, not push it to the center of the pan.#61_122
+Ax165ic4b3o#430.38#training#218#92_160#300_344#stretch the dough, not knead.#240_260
+Ax165ic4b3o#430.38#training#218#353_383#384_414#transfer the cooked pierogies, not cook.#117_234
+7dUpBLA2C6I#139.82999999999998#training#213#30_37#43_58#add some parmesan cheese, not milk.#112_139
+BUhMeYMzydE#268.52#training#121#49_87#88_114#add worcestershire sauce to the pot, not bay leaves. #217_268
+IPl_MdY9yNQ#396.25#training#218#38_54#105_126#thinly roll out the dough, not knead.#306_396
+3HKIO_gPWQQ#327.54#training#225#59_99#107_120#add tomato sauce, not bay leaves. #258_327
+s99K_WyajB8#345.3#training#302#66_74#75_85#add chopped red onion to the pan, not minced garlic. #258_345
+s99K_WyajB8#345.3#training#302#85_103#103_118#add finely chopped white onion to the pan, not carrot slices.#269_345
+8fVUcbC8MgM#321.28#training#107#74_159#262_274#drain the fried calamari with paper towel, not add to a plastic bag.#299_321
+EyAdFQJv2LY#54.08#training#313#10_17#25_32#press the rice into the fish, not roll by hand.#46_54
+EyAdFQJv2LY#54.08#training#313#19_22#33_38#flip the fish over , not hold in hand.#6_12
+9rS18VIXt1w#252.02#training#403#66_82#156_163#add egg, not scramble.#222_252
+MrYB9qNgbJ4#178.2#training#215#29_32#52_62#add pickled green beans to the pan, not lobster.#139_178
+MrYB9qNgbJ4#178.2#training#215#70_75#96_101#add truffle oil to the pan, not stock.#152_178
+MrYB9qNgbJ4#178.2#training#215#20_28#125_139#transfer the escargot from the pan to a plate, not add.#70_90
+We4NsM_moJQ#393.25#training#413#165_174#207_214#rinse carrot, not peel. #333_393
+GAKI57aE3Yo#380.04#training#119#219_230#284_286#bake the turkey mixture in the oven, not meatloaf. #73_146
+SZ7TtauNFRU#619.68#training#229#71_104#110_122#blend the fava beans in a food processor, not chickpeas.#453_619
+SZ7TtauNFRU#619.68#training#229#140_155#215_254#add coriander, not garlic.#497_619
+SZ7TtauNFRU#619.68#training#229#264_277#306_320#mix in baking powder and baking soda, not flour.#519_619
+SZ7TtauNFRU#619.68#training#229#359_383#537_546#place the falafel on the sandwich, not fry.#119_238
+FG7gL0oxMDs#617.94#training#421#260_279#280_285#add cilantro, not streamed potato.#506_617
+FG7gL0oxMDs#617.94#training#421#200_208#211_255#heat oil, not drop.#496_617
+AEpS4UBE6ds#438.48#training#302#123_156#157_200#add carrot, not chicken breast.#358_438
+A4pTxrrBtMU#180.65#training#215#107_126#132_150#spread garlic butter onto snail, not put in a bowl.#35_70
+A4pTxrrBtMU#180.65#training#215#99_106#128_131#put snails back in shell, not transfer to bowl.#33_66
+UZGqsSB9cSQ#284.62#training#317#68_74#139_155#add the chopped green onion and sesame seeds to the beef, not black pepper.#241_284
+UZGqsSB9cSQ#284.62#training#317#156_195#198_216#place the beef onto a piece of lettuce, not put onto a pan.#52_104
+WrJ_Xj9FArM#301.54#training#207#26_52#62_67#bake the potatos in the oven, not peel.#223_301
+WrJ_Xj9FArM#301.54#training#207#100_113#129_132#dip the fish in the batter, not coat in salt.#245_301
+WrJ_Xj9FArM#301.54#training#207#182_184#204_213#mash the peas with the mint and creme fraiche, not boil.#60_120
+RoLhMa9SHsI#258.9#training#113#74_87#90_118#add the pickles slices of jalapeno tomatoes on top, not cheese.#211_258
+RoLhMa9SHsI#258.9#training#113#140_158#179_188#take it out to serve when both sides are ready, not flip.#46_92
+RAsemdTGDYk#243.27#training#104#73_82#88_94#add the eggs to the pan, not oil.#193_243
+RAsemdTGDYk#243.27#training#104#27_39#94_170#push the egg in the pan, not whisk.#218_243
+Cgyi5kaU7Qc#357.26#training#412#65_70#90_125#cook the chicken, not mix it with hands. #279_357
+Cgyi5kaU7Qc#357.26#training#412#77_90#130_140#add ginger, not oil.#284_357
+Cgyi5kaU7Qc#357.26#training#412#138_145#150_165#add vegetables, not onions.#293_357
+Cgyi5kaU7Qc#357.26#training#412#177_205#266_273#add egg to the pan, not sauces.#59_118
+Cgyi5kaU7Qc#357.26#training#412#224_240#280_293#add spices, not rice.#74_148
+fw_3Bg17UFU#304.32#training#117#80_99#120_132#add the butter into the blender while on, not egg yolks.#246_304
+fJ47lmh3uiU#630.75#training#215#103_106#194_198#add the snails to the pan, not onions. #486_630
+gswKIbddBHw#207.7#training#309#73_77#82_94#add mushrooms to the pan, not slice. #169_207
+X1e5zsLlbZo#322.25#training#304#28_41#85_100#cut the cabbage in half and slice, not ginger.#248_322
+X1e5zsLlbZo#322.25#training#304#114_127#128_140#add red onion to the wok, not oil.#261_322
+X1e5zsLlbZo#322.25#training#304#13_27#155_170#drain the udon noodles, not cook.#271_322
+X1e5zsLlbZo#322.25#training#304#140_148#177_186#add the noodles, not cabbage.#46_92
+qK_02VHLcN0#319.88#training#305#40_65#66_81#wash the cabbage, not slice.#240_319
+qK_02VHLcN0#319.88#training#305#96_109#135_145#mix the cabbage with salt, not chop. #261_319
+qK_02VHLcN0#319.88#training#305#280_291#291_296#press the cabbage into a container, not toss with sauce.#93_186
+UaQ_PwDnIis#351.40999999999997#training#121#180_211#212_220#add garlic, not 1 finely diced onion.#60_120
+UaQ_PwDnIis#351.40999999999997#training#121#238_260#262_298#add three finely diced potato clams, not clam water.#79_158
+UaQ_PwDnIis#351.40999999999997#training#121#299_304#312_318#add 2 tbsp of dry parsley, not a little black pepper.#99_198
+BjWYw7V_T0s#173.29#training#112#77_85#87_93#pour mustard into the salad, not mayo.#146_173
+BjWYw7V_T0s#173.29#training#112#54_70#117_127#add salt and pepper to the salad, not tuna.#18_36
+H4-p87JS-yA#189.18#training#306#13_18#30_43#add cayenne powder to the bowl, not flour.#140_189
+H4-p87JS-yA#189.18#training#306#98_116#125_129#remove the shrimp from the oil, not coat in the batter.#32_64
+4UDMcBe5D3A#198.06#training#310#74_81#133_175#cut the fish meat into pieces, not wrap in a paper towel.#24_48
+T2lxCGJ9ekg#288.08#training#126#91_98#115_134#add onions, not salt.#236_288
+T2lxCGJ9ekg#288.08#training#126#191_193#200_204#add oregano, not white vinegar.#63_126
+k-aTILi_nLY#234.52#training#120#23_32#32_37#add the potatoes to the bowl, not salt.#168_234
+k-aTILi_nLY#234.52#training#120#12_23#44_61#strain the potatoes, not peel.#176_234
+k-aTILi_nLY#234.52#training#120#150_159#159_182#fry the hash browns, not flatten.#50_100
+JlXYqpEWUuA#523.28#training#208#61_91#123_130#slice the potatoes, not onion.#392_523
+JlXYqpEWUuA#523.28#training#208#267_270#330_347#add pepper to the pan, not tomatoes.#89_178
+um8-utUa9UI#237.36#training#316#166_175#183_190#add the mushroom, not remove.#55_110
+um8-utUa9UI#237.36#training#316#158_162#176_182#add the seaweed to the vegetable broth, not tear.#52_104
+1U5GzTal-2Y#256.07#training#308#118_127#245_252#add sauce to the top of the roll, not place on the tuna.#39_78
+1U5GzTal-2Y#256.07#training#308#83_89#134_159#roll the sheet up, not flip over. #223_256
+XzgR14o6b80#311.17#training#126#94_128#128_148#dip the steak in the marinate mixture, not cook.#256_311
+XzgR14o6b80#311.17#training#126#148_176#176_212#season the cabbage, not cut in half.#49_98
+4zO87oc_r-c#179.07999999999998#training#108#44_48#54_66#whisk two eggs, not mixture.#141_179
+4zO87oc_r-c#179.07999999999998#training#108#34_42#73_89#add some melted butter, not baking soda.#149_179
+14w_h9VFtzU#179.9#training#127#90_99#105_107#cook the burritos in the oven, not spray with cooking oil.#30_60
+LrfB-u6Y7Vg#661.05#training#403#76_91#157_200#slice the scallion, not tofu.#507_661
+LrfB-u6Y7Vg#661.05#training#403#294_315#322_359#fry tofu in the wok, not shrimp.#560_661
+LrfB-u6Y7Vg#661.05#training#403#271_284#432_460#add the sauce chicken stock to the wok, not oil.#90_180
+LrfB-u6Y7Vg#661.05#training#403#14_36#478_501#add the shrimp garlic to the wok, not soak in water.#207_378
+LrfB-u6Y7Vg#661.05#training#403#370_415#514_595#add the egg, not cook.#123_246
+Y4SijHJ02Zg#414.22#training#225#48_65#66_70#chop half of an onion, not celery.#299_414
+Y4SijHJ02Zg#414.22#training#225#83_125#126_130#add sicilian oregano to the pot, not olive oil.#319_414
+Y4SijHJ02Zg#414.22#training#225#137_155#170_175#add water to the pot, not cannellini beans. #334_414
+Y4SijHJ02Zg#414.22#training#225#197_217#254_259#add ditalini pasta to the pot, not tomato puree. #65_130
+Y4SijHJ02Zg#414.22#training#225#313_324#331_341#garnish the soup with some parsley drizzle some olive oil, not pour.#104_208
+22qauL6BO8E#181.4#training#107#103_126#131_154#fry the squid rings in oil in a pan, not coat with flour.#34_68
+_pwC3oNzQT8#445.44#training#105#232_274#277_291#fry the chicken in a pot with oil, not dip.#77_154
+ysmNrW8Yg58#353.24#training#205#122_185#233_306#bake the pizza, not shape.#40_80
+kXoSzxkZsx8#75.1#training#404#10_15#20_22#slice the vegetables, not chicken.#57_75
+kXoSzxkZsx8#75.1#training#404#23_32#33_50#add the vegetables, not rice wine.#66_75
+Pqi3yupFFJo#478.24#training#102#237_299#318_370#fry the onion rings in hot oil, not dip in the batter.#79_158
+PPeAw7iM-iw#243.18#training#305#63_68#120_127#mix chopped onions in hot pepper flakes and salt, not mince.#204_243
+PPeAw7iM-iw#243.18#training#305#24_42#142_165#chop bok choy in half , not rinse.#200_240
+SSmpg5gmTzc#332.12#training#126#99_158#158_195#add the beef to the pan, not vegetable stock.#286_332
+UVHIuuQ0-nA#325.33#training#305#118_135#153_224#add rice vinegar into the food processor, not salt.#39_78
+cVDsNLn2zc4#409.82#training#214#123_151#158_174#season the foie gras with salt and pepper, not cut into quarter inch thick pieces.#331_409
+cVDsNLn2zc4#409.82#training#214#186_222#229_248#cut an apple into thin slices, not shallot.#62_124
+cVDsNLn2zc4#409.82#training#214#309_320#324_371#place the shallots into the pan, not pieces of bread.#103_206
+J3wZ7wYPVTI#283.94#training#228#21_29#42_58#put some chickpeas in food processor, not drain.#208_283
+J3wZ7wYPVTI#283.94#training#228#68_76#94_105#add cumin, not tahini.#224_283
+v7xUF6_YFcc#403.89#training#119#98_210#210_323#add two eggs to the bowl, not onion.#32_64
+JGp_1OQ_XC8#113.32#training#222#49_55#60_63#add the wine, not onion.#96_113
+OIHLdm9BuoU#191.73#training#412#85_98#98_114#add the rice, not eggs.#28_56
+OIHLdm9BuoU#191.73#training#412#115_137#147_162#add garlic, not soy sauce.#38_76
+BTMd6rcevns#185.1#training#117#92_105#106_111#remove the egg from water, not drop.#30_60
+BTMd6rcevns#185.1#training#117#15_26#53_62#pour melted butter, not melt.#144_185
+a6Axxe-Q9K0#181.82#training#120#40_45#46_55#dry the potatoes, not soak.#139_181
+LMoGwLqPM64#197.57999999999998#training#324#111_119#144_146#add the noodles, not cook.#37_74
+LMoGwLqPM64#197.57999999999998#training#324#58_67#71_87#put onion in a pot, not slice.#160_197
+LMoGwLqPM64#197.57999999999998#training#324#41_47#53_58#cut the kabocha into bite-size pieces, not place in a bowl.#151_197
+rAvuiOAC-V8#196.42000000000002#training#216#96_101#105_118#add beer to pan, not sausages. #32_64
+rAvuiOAC-V8#196.42000000000002#training#216#80_95#102_104#cover sausages with onion, not remove.#165_196
+IJXdHAGqxhA#213.11#training#317#62_73#74_78#add garlic cloves to the bowl, not red chili pepper flakes.#168_213
+64x2_RvBOa0#282.48#training#323#178_189#189_206#add rice to the wok, not oil.#59_118
+64x2_RvBOa0#282.48#training#323#56_75#80_125#"cook the rice, not rinse.#229_282
+pH5PbKWJ3c0#138.35#training#127#46_65#65_87#add 3 ingredient vegan mince beans to the pan, not spices.#121_138
+fr_02xrchH0#136.02#training#213#74_83#91_98#add 1 spoon mustard ground nutmeg, not milk.#24_48
+byZj4mfOJ2s#340.6#training#119#34_50#51_101#add some milk, not minced onion flakes.#260_340
+uy_EB_IQuLM#512.54#training#305#150_210#214_315#stir the blended liquid, not pour.#446_512
+uy_EB_IQuLM#512.54#training#305#96_129#322_328#add honey, not radish fluid.#200_220
+wklpuFysPq8#612.56#training#226#82_123#124_186#add parsley green onions, not chopped tomatoes.#470_612
+wklpuFysPq8#612.56#training#226#335_385#445_502#fry the pita bread slices in oil, not cut.#111_222
+tqA5LByjh_Y#348.5#training#124#116_127#128_139#cut the provolone cheese into slices, not garlic.#278_348
+tqA5LByjh_Y#348.5#training#124#236_251#265_275#roast the bread for 3-4 mins, not take roll. #78_156
+8lqdPpg3w08#441.57#training#103#158_176#224_230#flip the meat patty when the bottom side is brown, not season.#371_441
+TvQjlIaAssw#123.66#training#225#38_46#48_57#add the pureed tomatos to the pot, not blend.#101_123
+TvQjlIaAssw#123.66#training#225#69_73#77_87#add the pasta to the soup, not basil.#23_46
+kAD8FSnkm50#314.82#training#218#76_101#104_106#wrap the dough in foil, not knead.#245_314
+kAD8FSnkm50#314.82#training#218#164_192#196_215#close the dough, not fold. #54_108
+C4ToOkxTe-o#294.36#training#120#117_145#185_201#cook the potatoes on the low setting of the stove, not pour in a pan.#39_78
+m20wLqgdmLY#185.97#training#101#80_85#127_138#put the bacon on top, not cook.#26_52
+_b5ZFYRGFDg#440.86#training#323#86_110#150_175#add rice to the wok, not egg. #352_440
+_b5ZFYRGFDg#440.86#training#323#204_207#217_237#add salt, not bbq pork. #68_136
+92cezdsHEwM#565.6#training#225#237_252#265_290#blend the beans with an immersion blender, not add.#473_565
+92cezdsHEwM#565.6#training#225#386_398#435_448#add the pasta to the soup, not water.#128_256
+uek-TzOhu9I#184.4#training#306#106_117#117_128#drop the shrimp into the oil, not coat in the batter.#35_70
+EpMbu7EIYf0#286.15999999999997#training#104#55_96#97_121#add shredded cheese, not milk.#231_286
+KgpkoZrOqck#592.32#training#321#289_314#333_376#fry the chicken in hot oil in a pan, not coat in the corn starch.#96_192
+KgpkoZrOqck#592.32#training#321#96_116#267_277#add the egg white to the chicken, not white vinegar. #487_592
+kpRcFx8JQl0#273.01#training#211#24_38#158_167#mash the potatoes with butter, not boil. #230_250
+zWHu95io9B4#219.69#training#203#57_62#64_80#add the egg to the other ingredients, not beat in a bowl. #173_219
+zWHu95io9B4#219.69#training#203#109_133#134_168#add tomatoes, not olive oil.#36_72
+vglhM2iVGSo#83.94#training#222#18_24#41_49#add wine to the pan, not oil. #72_83
+vglhM2iVGSo#83.94#training#222#13_15#24_28#add salt, not a bay leaf. #65_83
+LRjJqoeprqg#516.6#training#213#151_217#220_257#add cheese, not flour.#430_516
+_Fr7cxZOjI4#279.48#training#323#128_146#150_164#add pork to the pan, not garlic.#42_84
+_Fr7cxZOjI4#279.48#training#323#71_84#167_196#add peas to the pan, not oil.#251_279
+_Fr7cxZOjI4#279.48#training#323#198_210#225_233#add the egg to the rice, not soy sauce.#66_132
+RYaVRKzehns#225.21#training#222#19_53#53_70#add some chopped lemon grass to the pan, not chopped garlic.#173_225
+RYaVRKzehns#225.21#training#222#70_96#96_128#add some wine to the pa, not a bowl of mussels.#192_225
+BrtC6jhKBp0#257.28#training#323#136_167#168_195#add eggs to pan, not crack.#45_90
+BrtC6jhKBp0#257.28#training#323#207_230#234_236#add pepper, not green onion.#69_138
+BrtC6jhKBp0#257.28#training#323#75_94#110_124#cut pork, not garlic.#212_257
+7TUOtdjLI6I#309.26#training#221#120_130#131_144#put the meat into the pot, not potatoes. #254_309
+7TUOtdjLI6I#309.26#training#221#175_182#186_218#add spices to the pot, not tomato paste. #58_116
+j2HzT9LHiUE#405.34000000000003#training#309#66_94#96_115#add shredded cabbage, not chopped prawns.#308_405
+j2HzT9LHiUE#405.34000000000003#training#309#118_129#140_150#add salt soy sauce, not chopped spring onion. #320_405
+j2HzT9LHiUE#405.34000000000003#training#309#180_191#196_225#press the dough, not cut into pieces.#345_405
+j2HzT9LHiUE#405.34000000000003#training#309#307_336#345_349#flip dumplings, not put in.#102_204
+zukEQgbWdsY#314.33#training#101#52_103#132_143#place pieces of bread onto the pan, not pieces of bacon.#257_314
+zukEQgbWdsY#314.33#training#101#114_124#149_161#turn the swordfish pieces over, not place onto pan. #263_314
+5pPebDhgKmU#291.6#training#309#87_112#114_124#crimp the edges with a fork, not seal.#235_291
+5pPebDhgKmU#291.6#training#309#225_232#235_249#add hoisin to the pan, not pepper.#75_150
+5pPebDhgKmU#291.6#training#309#149_160#180_196#flip the potstickers over in the pan, not place in.#49_98
+7Fd7DjXMeaQ#400.48#training#418#136_169#179_200#add chili powder, not bay leaves.#333_400
+7Fd7DjXMeaQ#400.48#training#418#244_254#261_266#add salt to the pot, not garbanzo beans.#81_162
+7QeBiNfke5s#90.78#training#112#39_46#46_48#slice the cheese, not cucumber carrots. #76_90
+7QeBiNfke5s#90.78#training#112#54_57#57_62#add salt, not oil.#18_36
+DzbWIioCb74#298.82#training#115#167_176#178_190#dip the hot dog in the batter, not roll in the flour. #55_110
+qRUbmEZ6oiA#342.92#training#319#129_156#156_181#stir fry the vegetables including sprouts carrots onion zucchini and mushroom, not chop. #288_342
+qRUbmEZ6oiA#342.92#training#319#38_47#240_263#fry the beef, not marinate.#142_237
+CElmXCveb48#216.36#training#208#52_67#86_93#mash the potatoes with butter, not boil in salted water. #175_216
+CElmXCveb48#216.36#training#208#94_98#99_107#add mustard and butter to the potatoes, not milk. #179_216
+CElmXCveb48#216.36#training#208#109_117#120_127#cook the onion in a pot with butter, not chop. #36_72
+CElmXCveb48#216.36#training#208#152_156#158_180#cook the pears in a pot with butter sugar mustard and pepper, not chop up.#50_100
+XXBxo6LLj1w#262.53#training#302#11_80#81_95#add soy sauce to the bowl, not garlic.#206_262
+KIvxQGWU5KU#436.93#training#211#48_85#118_159#stir fry the cabbage,not add.#344_436
