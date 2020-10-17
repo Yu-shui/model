@@ -48,9 +48,7 @@
 8.回归模型定义
 
 对于提取出来的语义特征与视觉特征进行拼接，将这个拼接的向量作为回归模型的输入，回归模型损失函数分为Alignment Loss（匹配损失）、 Localization Regression loss（回归定位损失）
-$$
-L=L_{align}+\lambda *L_{loc}
-$$
+
 
 
 9.训练回归模型
