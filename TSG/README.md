@@ -25,25 +25,25 @@
 
 代码结构：
 
-**1.导入包：**导入程序运行所需要的包
+1.导入包：导入程序运行所需要的包
 
-**2.路径**：定义数据集获取的路径以及训练所的模型保存的地址
+2.路径：定义数据集获取的路径以及训练所的模型保存的地址
 
-**3.GPU**：测试GPU是否有效
+3.GPU：测试GPU是否有效
 
-**4.功能函数：**定义一众在程序运行中需要用到的功能函数如学习率调整函数*adjust_learning_rate*()，数据集读取函数*get_dict()*
+4.功能函数：定义一众在程序运行中需要用到的功能函数如学习率调整函数adjust_learning_rate()，数据集读取函数get_dict()
 
-**5.读取数据：**通过功能函数中的*get_dict()*读取训练集和验证集。
+5.读取数据：通过功能函数中的get_dict()读取训练集和验证集。
 
-**6.基础模型定义**
+6.基础模型定义
 
-​	（1）*LSTM_CNN*
+​	（1）LSTM_CNN
 
-​    （2）*Log-Ratio Loss*
+​    （2）Log-Ratio Loss
 
 **7.训练基础模型**
 
-模型文件存储在$TSG/data/save$路径下
+模型文件存储在TSG/data/save路径下
 
 **8.回归模型定义**
 
@@ -55,7 +55,7 @@ $$
 
 **9.训练回归模型**
 
-模型文件存储在$TSG/data/save$路径下
+模型文件存储在TSG/data/save路径下
 
 **10.使用test集计算R@1**
 
@@ -67,7 +67,7 @@ $$
 
 This is the repository for our ICCV 2017 paper [*TALL: Temporal Activity Localization via Language Query*](https://arxiv.org/abs/1705.02101).
 
-模型结构与前者类似，模型文件存储在$TSG/data/save/TALL/savemodel$
+模型结构与前者类似，模型文件存储在TSG/data/save/TALL/savemodel
 
 
 
